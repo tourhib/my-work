@@ -1,0 +1,10 @@
+.hero{
+    background: linear-gradient( 45deg, green, purple);
+    width: 100%;
+    padding: 70px 0px;
+    color: white;
+}
+h3
+ {
+    font-style: italic;
+}
